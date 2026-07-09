@@ -24,3 +24,27 @@ h5-c02.eset.com
 h5-c03.eset.com
 h5-c04.eset.com
 h5-c05.eset.com
+
+#Push Notification Service
+epns.eset.com
+h1-epnsbroker01.eset.com
+h1-epnsbroker02.eset.com
+h1-epnsbroker03.eset.com
+h1-epnsbroker04.eset.com
+h1-epnsbroker05.eset.com
+h1-epnsbroker06.eset.com
+h1-epnsbroker07.eset.com
+h3-epnsbroker01.eset.com
+h3-epnsbroker02.eset.com
+h3-epnsbroker03.eset.com
+h3-epnsbroker04.eset.com
+h3-epnsbroker05.eset.com
+h3-epnsbroker06.eset.com
+h3-epnsbroker07.eset.com
+h5-epnsbroker01.eset.com
+h5-epnsbroker02.eset.com
+h5-epnsbroker03.eset.com
+h5-epnsbroker04.eset.com
+h5-epnsbroker05.eset.com
+h5-epnsbroker06.eset.com
+h5-epnsbroker07.eset.com
