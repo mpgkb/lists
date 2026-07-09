@@ -1,2 +1,6 @@
 h1-arsp01-v.eset.com
 h1-arsp02-v.eset.com 
+h3-arsp01-v.eset.com
+h3-arsp02-v.eset.com
+h5-arsp01-v.eset.com
+h5-arsp02-v.eset.com
