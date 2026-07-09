@@ -1,3 +1,7 @@
+#ESET inspect
+inspect.eset.com
+eu01.agent.edr.eset.systems
+
 #Update
 update.eset.com
 eu-update.eset.com
